@@ -128,7 +128,7 @@ p {
   text-transform: uppercase;
   text-decoration: none;
   text-align: center;
-  transition: background 0.1s linear;
+  transition: background-color 0.1s linear;
 }
 
 .btn--red {
